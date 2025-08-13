@@ -1,0 +1,9 @@
+name: StatusFloatUI
+main: me.yourname.statusfloatui.StatusUIPlugin
+version: 1.0.0
+api-version: '1.21'
+commands:
+  상태창:
+    description: 상태창 제어
+    usage: /상태창 [on|off] [스탯|인첸트|강화]
+    aliases: [statusui, sstatus]
